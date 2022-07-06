@@ -1,0 +1,36 @@
+li {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.nickel {
+  border: 1px black solid;
+  background-color: brown;
+  border-radius: 50%;
+  height: 150px;
+  width: 150px;
+  text-align: center;
+}
+
+.dime {
+  border: 1px black solid;
+  background-color: silver;
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+  text-align: center;
+}
+
+.quarter {
+  border: 1px black solid;
+  background-color: gold;
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+  text-align: center;
+}
+
+.lit {
+  background-color: yellow;
+}
